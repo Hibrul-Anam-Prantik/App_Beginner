@@ -1,4 +1,4 @@
-# App_Beginner
+# DxCalculator
  Building my first app as a beginner. </br>
 The Calculator can do these operations:
 <ul>
