@@ -27,7 +27,7 @@ public class Calculator implements ActionListener
         textField.setEditable(false);
         addButton = new JButton("+");
         subButton = new JButton("-");
-        mulButton = new JButton("*");
+        mulButton = new JButton("X");
         divButton = new JButton("/");
         decButton = new JButton(".");
         equButton = new JButton("=");
@@ -110,7 +110,7 @@ public class Calculator implements ActionListener
         }
         if(e.getSource() == mulButton) {
             num1 = Double.parseDouble(textField.getText());
-            operator = '*';
+            operator = 'X';
             textField.setText("");
         }
         if(e.getSource() == divButton) {
