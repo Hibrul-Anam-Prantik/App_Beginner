@@ -1,5 +1,5 @@
 # DxCalculator
- Building my first app as a beginner. </br>
+<pre>                    <img src = "calc.png" alt = "Calculator" width = "170"> </pre>
 The Calculator can do these operations:
 <ul>
     <li>Summation</li>
